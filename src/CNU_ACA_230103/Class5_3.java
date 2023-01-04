@@ -13,7 +13,7 @@ public class Class5_3 {
     }
 }
 
-    public class Practice {
+    class Practice {
     /**
      향상된 for문을 사용해서 1차원 배열 array 원소를 한 줄씩 출력하세요.
      */
