@@ -1,6 +1,7 @@
 package CNU_ACA_230112.collections;
 
 public class User {
+    public static User EMPTY = new User(0,"");
     private int age;
     private String name;
 
